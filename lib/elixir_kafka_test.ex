@@ -1,0 +1,2 @@
+defmodule ElixirKafkaTest do
+end
