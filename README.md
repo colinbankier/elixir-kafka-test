@@ -1,4 +1,4 @@
-ElixirKafkaTest
+elixir-kafka-test
 ===============
 
-** TODO: Add description **
+Test project to talk to Kafka with elixir
