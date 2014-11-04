@@ -20,7 +20,6 @@ produce_request_topics = [{'test', produce_request_partitions}]
 
 
 :kafka.metadata ref
-
 :kafka_client.produce(ref, 0, 1, 100, produce_request_topics)
 
 
